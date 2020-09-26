@@ -12,7 +12,7 @@ Ohjelma tulostaa tekstin BINGO, mikäli ensimmäinen luku on jaollinen jälkimm�
 
 Muussa tapauksessa ohjelma tulostaa tekstin BONGO. (Käytä modulo-operaattoria: %).
 
-Vielä meillä ei ole käytössä tehokkaita tietojen sisäänkeinoja, siksi alustamme kaksi muuttujaa. Sijoitetaan ensimmäisen arvoksi 24 ja toisen 8. Tuloksen pitäisi olla
+Vielä meillä ei ole käytössä tehokkaita tietojen sisäänsyöttökeinoja, siksi alustamme kaksi muuttujaa ohjelmakoodissa. Sijoitetaan ensimmäisen arvoksi 24 ja toisen 8. Tuloksen pitäisi olla
 
 ```
 BINGO
