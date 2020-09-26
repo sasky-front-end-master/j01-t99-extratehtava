@@ -1,6 +1,6 @@
 # Extratehtävä
 
-Tämä on extratehtävä, joka on luotu vain komentorivikäytön dokumentoimiseksi Linux-ympäristössä. Käytössä ei ole graafisia työkaluja lainkaan, vainna Visual Studio Code toki on saatavilla Linux-ympäristöön.
+Tämä on extratehtävä, joka on luotu vain komentorivikäytön dokumentoimiseksi Linux-ympäristössä. Käytössä ei ole graafisia työkaluja lainkaan, vaikka Visual Studio Code toki on saatavilla Linux-ympäristöön.
 
 Alustana on Centos 8.2
 
